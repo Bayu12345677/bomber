@@ -1,2 +1,2 @@
-# bomber
-spamming otp melalui terminal linux
+<p align="center">
+ <img src="

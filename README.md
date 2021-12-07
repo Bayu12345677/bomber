@@ -26,7 +26,7 @@ ini adalah script `bomber otp` yg di gunakan untuk melakukan spamming dengan men
 >> apt install curl
 ```
 
-######### repo
+#### repo
 ```python
 git clone https://github.com/Bayu12345677/bomber
 cd bomber

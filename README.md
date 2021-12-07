@@ -13,7 +13,7 @@ ini adalah script `bomber otp` yg di gunakan untuk melakukan spamming dengan men
 - call unli (tapi kadang masuk kadang ga)
 - auto.update
 - new style
-- <comming soon>
+- comming soon
 
 `cara menginstall`
 ```fish
@@ -26,4 +26,4 @@ ini adalah script `bomber otp` yg di gunakan untuk melakukan spamming dengan men
 >> apt install curl
 ```
 
-** repo
+~ repo

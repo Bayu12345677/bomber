@@ -26,4 +26,4 @@ ini adalah script `bomber otp` yg di gunakan untuk melakukan spamming dengan men
 >> apt install curl
 ```
 
-~ repo
+~repo~

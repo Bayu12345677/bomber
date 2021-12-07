@@ -26,4 +26,16 @@ ini adalah script `bomber otp` yg di gunakan untuk melakukan spamming dengan men
 >> apt install curl
 ```
 
-~repo~
+######### repo
+```python
+git clone https://github.com/Bayu12345677/bomber
+cd bomber
+bash spamter.sh
+```
+
+- me youtube
+
+<a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">
+  <img src="https://github.com/Bayu12345677/tolol/blob/main/5296522_youtube_youtube%20logo_icon.svg" width="65">
+</a>
+

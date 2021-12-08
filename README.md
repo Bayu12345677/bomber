@@ -33,6 +33,8 @@ cd bomber
 bash spamter.sh
 ```
 
+`note : jika otp tidak masuk berati rest api telah coid / nomer kamu ke ban dan server juga bisa coid`
+
 - me youtube
 
 <a href="https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">

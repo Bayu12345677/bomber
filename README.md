@@ -12,7 +12,7 @@ ini adalah script `bomber otp` yg di gunakan untuk melakukan spamming dengan men
 ###### feature
 - call unli (tapi kadang masuk kadang ga)
 - auto.update
-- new style
+- new otp
 - comming soon
 
 `cara menginstall`
